@@ -1,7 +1,7 @@
 #include <iostream>
 
 // Two ways to do the same thing.
-
+int moin();
 
 int main() {
     std::cout << "Hello World" << std::endl;
@@ -14,10 +14,10 @@ int moin() {
     cout << "Hello World1" << endl;
     return (0);
 }
-
+/*
 
 using namespace std;
 int moin(int argc, char * argv[]) {
     cout << "Hello World1" << endl;
     return (0);
-}
+}*/
